@@ -1,5 +1,5 @@
 # Reinforcement Learning Resources
-A curated list of awesome reinforcement courses, video lectures, books, library and many more. 
+A curated list of awesome reinforcement courses, video lectures, books, library and many more.
 
 ## Table of Contents
 * **[Free Books](#free-books)**
@@ -46,3 +46,6 @@ A curated list of awesome reinforcement courses, video lectures, books, library 
 
 ### Libraries
 1. To-do
+
+## Contributing
+Jika anda ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
