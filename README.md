@@ -61,14 +61,12 @@ A curated list of awesome reinforcement courses, video lectures, books, library 
 ### Sample Code
 1. [Reinforcement Learning: An Introduction (2nd Edition)](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
-### Datasets
-1. To-do
-
-### Conferences (Mostly in Indonesia)
-1. To-do
-
 ### Libraries
-1. To-do
+1.	[OpenAI gym](https://gym.openai.com/)
+2.	[OpenAI Retro](https://github.com/openai/retro)
+3.	[Deep Mind Lab](https://github.com/deepmind/lab)
+4.	[RL-Library](http://library.rl-community.org/wiki/Main_Page)
+5.	[RL Lab](https://github.com/rll/rllab)
 
 ## Contributing
 Jika anda ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
