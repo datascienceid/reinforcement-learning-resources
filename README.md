@@ -14,10 +14,6 @@ A curated list of awesome reinforcement courses, video lectures, books, library 
 
 * **[Sample Code](#sample-code)**
 
-* **[Datasets](#datasets)**
-
-* **[Conferences](#conferences-mostly-in-indonesia)**
-
 * **[Libraries](#libraries)**
 
 ### Free Books
