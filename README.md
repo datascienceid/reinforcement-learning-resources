@@ -39,6 +39,7 @@ A curated list of awesome reinforcement courses, video lectures, books, library 
 7.	[Lecture 9: Markov Decision Processes 2](https://www.youtube.com/watch?v=Csiiv6WGzKM)
 8.	[Lecture 10: Reinforcement Learning 1](https://www.youtube.com/watch?v=ifma8G7LegE)
 9.	[Lecture 11: Reinforcement Learning 2](https://www.youtube.com/watch?v=Si1_YTw960c)
+10.	[MIT 6.S191: Reinforcement Learning](https://www.youtube.com/watch?v=93M1l_nrhpQ)
 
 ### Papers
 1.	[Generalization in Reinforcement Learning: Successful examples using sparse coding, Richard S. Sutton](http://webdocs.cs.ualberta.ca/~sutton/papers/sutton-96.pdf) 
