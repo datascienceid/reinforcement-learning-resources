@@ -40,10 +40,10 @@ A curated list of awesome reinforcement courses, video lectures, books, library 
 8.	[Lecture 10: Reinforcement Learning 1](https://www.youtube.com/watch?v=ifma8G7LegE)
 9.	[Lecture 11: Reinforcement Learning 2](https://www.youtube.com/watch?v=Si1_YTw960c)
 10.	[MIT 6.S191: Reinforcement Learning](https://www.youtube.com/watch?v=93M1l_nrhpQ)
-11. [Reinforcement Learning: A Six Part Series](https://youtu.be/NFo9v_yKQXA)
-12. [The Bellman Equations, Dynamic Programming, and Generalized Policy Iteration](https://youtu.be/_j6pvGEchWU)
-13. [Monte Carlo And Off-Policy Methods](https://youtu.be/bpUszPiWM7o)
-14. [TD Learning, Sarsa, and Q-Learning](https://youtu.be/AJiG3ykOxmY)
+11.	[Reinforcement Learning: A Six Part Series](https://youtu.be/NFo9v_yKQXA)
+12.	[The Bellman Equations, Dynamic Programming, and Generalized Policy Iteration](https://youtu.be/_j6pvGEchWU)
+13.	[Monte Carlo And Off-Policy Methods](https://youtu.be/bpUszPiWM7o)
+14.	[TD Learning, Sarsa, and Q-Learning](https://youtu.be/AJiG3ykOxmY)
 
 ### Papers
 1.	[Generalization in Reinforcement Learning: Successful examples using sparse coding, Richard S. Sutton](http://webdocs.cs.ualberta.ca/~sutton/papers/sutton-96.pdf) 
